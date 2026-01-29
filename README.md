@@ -6,7 +6,7 @@ const pau = {
     pronouns: "He" | "Him",
     code: ["HTML", "CSS", "JavaScript"],
     technologies: {
-        frontEnd: ["React", "Bootstrap"],
+        frontEnd: ["React", "Bootstrap", "Tailwind],
     },
     projectInterests: ["Web Development", "Front-end Technologies"],
     currentFocus: "Building captivating web applications and enhancing user experiences",
