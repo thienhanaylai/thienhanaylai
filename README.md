@@ -31,10 +31,9 @@ const pau = {
 - 🌐 Visit my portfolio website [here](#).
 
 ### GitHub Stats:
-![Github Stats](https://github-readme-stats.vercel.app/api?username=thienhanaylai)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thienhanaylai)
-[![trophy](https://github-profile-trophy.vercel.app/?username=thienhanaylai)](https://github.com/thienhanaylai)
-[![GitHub Streak](https://streak-stats.herokuapp.com/?user=thienhanaylai)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thienhanaylai&layout=compact)
+
 
 ---
 
