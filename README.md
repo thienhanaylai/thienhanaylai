@@ -36,12 +36,6 @@ const pau = {
 [![trophy](https://github-profile-trophy.vercel.app/?username=thienhanaylai)](https://github.com/thienhanaylai)
 [![GitHub Streak](https://streak-stats.herokuapp.com/?user=thienhanaylai)](https://git.io/streak-stats)
 
-### Badges:
-![Built with Love](https://forthebadge.com/images/badges/built-with-love.svg)
-![JavaScript Lover](https://forthebadge.com/images/badges/uses-js.svg)
-![Code and Beer](https://forthebadge.com/images/badges/made-with-javascript.svg)
-![Visits](https://pv-badge.herokuapp.com/counter?user=thienhanaylai&style=flat-square)
-
 ---
 
 🔍 Explore my projects and let's collaborate on some amazing web development initiatives! Thank you for visiting! 👨‍💻🚀
